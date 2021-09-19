@@ -73,6 +73,6 @@
 }
 
 #popImg {
-  max-height: 250px;
-  object-fit: cover;
+  height: 400px;
+  object-fit: contain;
 }
